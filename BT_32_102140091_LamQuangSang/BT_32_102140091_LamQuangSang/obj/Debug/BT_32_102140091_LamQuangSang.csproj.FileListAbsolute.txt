@@ -1,0 +1,9 @@
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\bin\Debug\BT_32_102140091_LamQuangSang.exe.config
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\bin\Debug\BT_32_102140091_LamQuangSang.exe
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\bin\Debug\BT_32_102140091_LamQuangSang.pdb
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\obj\Debug\BT_32_102140091_LamQuangSang.Properties.Resources.resources
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\obj\Debug\BT_32_102140091_LamQuangSang.csproj.GenerateResource.Cache
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\obj\Debug\BT_32_102140091_LamQuangSang.csproj.CoreCompileInputs.cache
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\obj\Debug\BT_32_102140091_LamQuangSang.exe
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\obj\Debug\BT_32_102140091_LamQuangSang.pdb
+G:\C#\jibun\BT_32_102140091_LamQuangSang\BT_32_102140091_LamQuangSang\obj\Debug\BT_32_102140091_LamQuangSang.csprojResolveAssemblyReference.cache
